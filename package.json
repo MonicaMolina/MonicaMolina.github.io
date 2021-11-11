@@ -1,5 +1,5 @@
 {
-    "name": "monicamolina.github.io",
+    "name": "monicamolina",
     "version": "0.1.0",
     "private": true,
     "homepage": "http://monicamolina.github.io",
@@ -13,6 +13,7 @@
         "@testing-library/react": "^11.1.0",
         "@testing-library/user-event": "^12.1.10",
         "bootstrap": "^5.0.0",
+        "caniuse-lite": "^1.0.30001279",
         "react": "^17.0.2",
         "react-bootstrap": "^1.5.2",
         "react-dom": "^17.0.2",
