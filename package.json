@@ -1,8 +1,8 @@
 {
-    "name": "page",
+    "name": "monicamolina.github.io",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://monicamolina.github.io/page",
+    "homepage": "http://monicamolina.github.io/",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.35",
         "@fortawesome/free-brands-svg-icons": "^5.15.3",
