@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.290d52e4.chunk.css",
+    "main.js": "/static/js/main.3ff25f01.chunk.js",
+    "main.js.map": "/static/js/main.3ff25f01.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.633ca243.js",
+    "runtime-main.js.map": "/static/js/runtime-main.633ca243.js.map",
+    "static/css/2.acd75131.chunk.css": "/static/css/2.acd75131.chunk.css",
+    "static/js/2.ef6b0cae.chunk.js": "/static/js/2.ef6b0cae.chunk.js",
+    "static/js/2.ef6b0cae.chunk.js.map": "/static/js/2.ef6b0cae.chunk.js.map",
+    "static/js/3.5aa79488.chunk.js": "/static/js/3.5aa79488.chunk.js",
+    "static/js/3.5aa79488.chunk.js.map": "/static/js/3.5aa79488.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.acd75131.chunk.css.map": "/static/css/2.acd75131.chunk.css.map",
+    "static/css/main.290d52e4.chunk.css.map": "/static/css/main.290d52e4.chunk.css.map",
+    "static/js/2.ef6b0cae.chunk.js.LICENSE.txt": "/static/js/2.ef6b0cae.chunk.js.LICENSE.txt",
+    "static/media/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.jpeg": "/static/media/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.0b02cb58.jpeg",
+    "static/media/hero.css": "/static/media/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.88054307.jpeg",
+    "static/media/66991953-5F5C-45CD-B203-BD6896C84ED5.46682e3a.jpeg": "/static/media/66991953-5F5C-45CD-B203-BD6896C84ED5.46682e3a.jpeg",
+    "static/media/Congreso.png": "/static/media/Congreso.c5769f0a.png",
+    "static/media/Consulado.jpg": "/static/media/Consulado.85260af3.jpg",
+    "static/media/IPEA.png": "/static/media/IPEA.6095d059.png",
+    "static/media/Imagen 27-05-21 a las 13.15.jpeg": "/static/media/Imagen 27-05-21 a las 13.15.15ab9d87.jpeg",
+    "static/media/Lideres.png": "/static/media/Lideres.91c9891f.png",
+    "static/media/LogoIPSA.jpg": "/static/media/LogoIPSA.c1d22471.jpg",
+    "static/media/index.css": "/static/media/Quicksand-SemiBold.d4f6bc51.ttf",
+    "static/media/UnMillon.png": "/static/media/UnMillon.02466ffb.png",
+    "static/media/integralia.png": "/static/media/integralia.a0bd8174.png",
+    "static/media/logog.png": "/static/media/logog.610ca717.png",
+    "static/media/mapa.fd61cd3e.png": "/static/media/mapa.fd61cd3e.png",
+    "static/media/plataforma.e29c0b8e.mov": "/static/media/plataforma.e29c0b8e.mov",
+    "static/media/video.1e94f2f4.mp4": "/static/media/video.1e94f2f4.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.633ca243.js",
+    "static/css/2.acd75131.chunk.css",
+    "static/js/2.ef6b0cae.chunk.js",
+    "static/css/main.290d52e4.chunk.css",
+    "static/js/main.3ff25f01.chunk.js"
+  ]
+}
