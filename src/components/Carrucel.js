@@ -15,8 +15,8 @@ function Carucel() {
           autoPlay loop
         />
         <Carousel.Caption>
-        <h3 id="title-video">Datos Geográficos</h3>
-        <p id="title-video">Herramientas para la toma de decisiones con datos de movilidad y censales de INEGI.</p>
+        <h3 id="title-video">Geo-data</h3>
+        <p id="title-video">Visualization of strategic data. Electoral and Public Policy planning.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={500}>
@@ -27,8 +27,8 @@ function Carucel() {
           autoPlay loop
         />
         <Carousel.Caption>
-        <h3 id="title-video">Plataforma Electoral en contrucción</h3>
-        <p id="title-video">Actualmente estoy trabajando en el desarrollo de una herramienta electoral que permita visualizar todas las elecciones locales y federales desde el 2000 hasta el nivel seccional.</p>
+        <h3 id="title-video">Electoral platform under construction</h3>
+        <p id="title-video">Electoral application with local and federal information (2000-2021) under construction.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -38,8 +38,8 @@ function Carucel() {
           alt="Third slide"
         />
         <Carousel.Caption>
-        <h3 id="title-map">Ingeniería Electoral</h3>
-        <p id="text-map">Estrategia electoral basada en datos muestrales, censales y proyección electoral.</p>
+        <h3 id="title-map">Electoral Strategy</h3>
+        <p id="text-map">Electoral strategy and estimation of results.</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

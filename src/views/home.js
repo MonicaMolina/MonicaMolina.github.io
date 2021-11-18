@@ -17,11 +17,11 @@ function Home() {
             <Aboutme />
             <div className="container d-flex justify-content-center align-items-center">
                 <div className="col-lg-6 col-md-10 col-sm-12 col-sx-12">
-                <p id="trayectoria">Trayectoria Laboral</p>
+                <p id="trayectoria">Work Experience</p>
                 <Card />
-                <p id="trayectoriaI">Trabajos de Investigación</p>
+                <p id="trayectoriaI">Research Experience</p>
                 <Investigacion />
-                <p id="trayectoriaA">Trayectoria Académica</p>
+                <p id="trayectoriaA">Academic Achievements</p>
                 <Educacion />
                 </div>
             </div>
@@ -30,8 +30,8 @@ function Home() {
             <div id="Contact" className="row w-100">
             <div className="col-2"></div>
             <div className="col-8">
-            <p>¿Te interesa colaborar conmigo o tienes alguna propuesta laboral?</p>
-            <p>Contáctame por cualquiera de los medios que aparecen abajo. </p>
+            <p>Would you like to colaborate with me or make me a work offer?</p>
+            <p>Please find the contact information below. </p>
             </div>
             <div className="col-2"></div>
             </div>

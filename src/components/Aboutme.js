@@ -7,10 +7,10 @@ function Aboutme () {
         <div className="col-lg-2 col-md-2 col-sm-block"></div>
         <img id="imagen" className="col-3" src={yo} alt=""/>
         <div id="text" className="col-5">
-        <p className="title">¡Hola! Soy Mónica Molina.</p>
-        <p className="texto">Estudié Ciencia Política en el ITAM y me encanta trabajar con datos. Me gusta definirme como Cíentifica de Datos Sociales y creo que aunque no todo en la vida son números, conocer los errores en las generalidades nos pueden ayudar a distinguir lo particular.</p> 
-        <p className="texto">Soy una entusiasta de la investigación y me gusta explorar nuevas posibilidades con datos en lenguajes como R, Python y JavaScript. Me especializo en temas electorales y finanzas públicas, pero sobretodo amo encontrar soluciones a problemas sociales y respuestas a lo que desconozco.</p>
-        <p className="texto">Me he desempeñado como consultora, asistente de investigación y servidora pública.</p>
+        <p className="title">Hello and welcome to my personal website!</p>
+        <p className="texto">I'm Monica Molina, political scientist and I love to work with data. I strongly believe that using data to analyze social behaviors is not about fitting models, it's about discover how diverse are we and how societies evolve.</p> 
+        <p className="texto">I use programming languages as R, Python and JavaScript. I'm an specialist in electoral strategy and public finance, and I love to keep learning and solve problems.</p>
+        <p className="texto">I've worked as freelance consultant, research assistant  and public server in Mexico.</p>
         </div>
         <div className="col-lg-2 col-md-2 col-sm-block"></div>
     </div>

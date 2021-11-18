@@ -3,30 +3,30 @@ import "./carde.css";
 const  ponencias = [
     {
         icon: require("../img/AMECIP.png").default,
-        institution: "VIII Congreso Internacional de Ciencia Política. AMECIP.",
-        topic: "Cultura política, disputa por los cargos de representación.",
-        title: "Ponencia presentada: Metamorfosis del Sistema de Partidos Mexicano: El Efecto de las Candidaturas Independientes",
-        date: "9 de diciembre de 2020",
+        institution: "VIII Political Science International Conference. AMECIP.",
+        topic: "Political Culture, representation seats electoral competition.",
+        title: "Metamorphosis of the Mexican Party System: Independent Candidates and its effects",
+        date: "December 9th, 2020",
     },
     {  
         icon: require("../img/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.jpeg").default,
-        institution: "Segundo Seminario Internacional: “Las reformas políticas a la representación en América Latina. UNAM",
-        topic: "Partidos y Sitemas de Partidos",
-        title: "Ponencia aceptada: Metamorfosis del Sistema de Partidos Mexicano: El Efecto de las Candidaturas Independientes",
-        date: "30 de septiembre al 2 de octubre de 2020 en la Ciudad de México",
+        institution: "Second International Seminar: “The representation politic reforms in Latin America. UNAM",
+        topic: "Parties and Party Systems",
+        title: "Metamorphosis of the Mexican Party System: Independent Candidates and its effects",
+        date: "September 30th 2020 - October 2nd 2020, Mexico City",
     },
     {
         icon: require("../img/LID.jpg").default,
-        institution: "4to Seminario de Investigación del Laboratorio de Innovación Democrática LID",
-        topic: "Partidos y Sitemas de Partidos",
-        title: "Ponencia presentada: Metamorfosis del Sistema de Partidos Mexicano: El Efecto de las Candidaturas Independientes",
-        date: "20 de marzo 2020",
+        institution: "Laboratory of Democratic Innovation's 4th Research Seminar, LID",
+        topic: "Parties and Party Systems",
+        title: "Metamorphosis of the Mexican Party System: Independent Candidates and its effects",
+        date: "March 20th, 2020",
     },
     {   
         icon: require("../img/logo-coljal-header.png").default,
-        institution: "III Coloquio Internacional de Gobernanza Metropolitana ReGobM2019. El Colegio de Jalisco.",
-        topic: "Gobierno abierto y rendición de cuentas",
-        title: "Ponencia presentada: Gobierno abierto y opacidad de cuentas. Estudio de la transparencia en los municipios de Jalisco.",
+        institution: "III International Colloquium of Metropolitan Gobernance, ReGobM2019. El Colegio de Jalisco.",
+        topic: "Open Government and accountability",
+        title: "Open Government and Account Opacity. Study of the municipalities in Jalisco, Mexico.",
         date: "5 al 8 de noviembre de 2019",
     },
 ]
@@ -42,7 +42,7 @@ function CardI() {
             <p className="fw-bold">{p.institution} </p>
             <p className="fw-bold"> {p.title}</p>
             <p>{p.topic}</p>
-            <p>Fecha: {p.date}</p>
+            <p>Date: {p.date}</p>
         </div>
     </div> 
     })}

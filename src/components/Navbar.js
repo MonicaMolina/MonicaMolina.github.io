@@ -8,18 +8,19 @@ import './Navbar.css';
 function Navb() {
   return (
 <Navbar bg="" expand="lg" sticky="top">
-  <Navbar.Brand href="/page"> <img id="Icon" src= {iconIMG} alt=""/> Mónica Esther Molina Jasso</Navbar.Brand>
+  <Navbar.Brand href="/"> <img id="Icon" src= {iconIMG} alt=""/> Mónica Esther Molina Jasso</Navbar.Brand>
   <Navbar.Toggle aria-controls="navbarScroll" />
   <Navbar.Collapse id="navbarScroll">
     <Nav className="mr-auto my-2 my-lg-0">
-      <Nav.Link href="#Aboutme">Acerca de mí</Nav.Link>
+      <Nav.Link href="#Aboutme">About me</Nav.Link>
       <Nav.Link href="#Component">Molina Consultores</Nav.Link>
-      <NavDropdown title="Currículum" id="navbarScrollingDropdown">
-        <NavDropdown.Item href="#trayectoria">Trayectoria Laboral</NavDropdown.Item>
-        <NavDropdown.Item href="#trayectoriaI">Trabajos de investigación</NavDropdown.Item>
-        <NavDropdown.Item href="#trayectoriaA">Formación Académica</NavDropdown.Item>
+      <NavDropdown title="CV" id="navbarScrollingDropdown">
+        <NavDropdown.Item href="#trayectoria">Work Experience</NavDropdown.Item>
+        <NavDropdown.Item href="#trayectoriaI">Research Experience</NavDropdown.Item>
+        <NavDropdown.Item href="#trayectoriaA">Academic Achievements</NavDropdown.Item>
       </NavDropdown>
-      <Nav.Link href="#Contact">Contacto</Nav.Link>
+      <Nav.Link href="#Contact">Contact me</Nav.Link>
+      <Nav.Link href="/page">Español</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
